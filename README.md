@@ -37,5 +37,7 @@ O fluxo de dados foi dividido em três camadas lógicas, garantindo governança,
 O pipeline inteiro está orquestrado utilizando o **Databricks Workflows**. Uma *Task* agendada roda diariamente em um cluster **Serverless** dedicado ao Job, garantindo a entrega contínua dos dados atualizados nas tabelas Gold de forma autônoma e escalável.
 
 ---
-*Desenvolvido por [Seu Nome/Nome de Desenvolvedor]*
-*🔗 [Link para o seu LinkedIn]*
+
+![Image](images/Blocos notebook.png)
+![Image](images/Execução do Pipeline.png)
+![Image](images/Pipeline de Dados Financeiros.png)
