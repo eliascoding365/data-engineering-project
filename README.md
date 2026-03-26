@@ -38,6 +38,6 @@ O pipeline inteiro está orquestrado utilizando o **Databricks Workflows**. Uma 
 
 ---
 
-![Image](images/Blocos notebook.png)
-![Image](images/Execução do Pipeline.png)
-![Image](images/Pipeline de Dados Financeiros.png)
+![Image](images/Blocos%20notebook.png)
+![Image](images/Execução%20do%20Pipeline.png)
+![Image](images/Pipeline%20de%20Dados%20Financeiros.png)
